@@ -4,7 +4,10 @@
 To-Do App Basic is a simple yet powerful task management tool designed to help users organize their day-to-day activities efficiently. Built with Django, JavaScript, jQuery, and SQLite, it offers a user-friendly interface with essential features for managing tasks.
 
 ### Demo Video
-[![Bassic To Do App Demo](https://img.youtube.com/vi/uNrgcf5J-pw/0.jpg)](https://www.youtube.com/watch?v=uNrgcf5J-pw)
+
+file:///home/johurul/Videos/todoDemo02.mp4
+
+
 
 ## Key Features
 1. **Add Task**: Easily add new tasks to your to-do list.
