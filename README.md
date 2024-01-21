@@ -5,7 +5,7 @@ To-Do App Basic is a simple yet powerful task management tool designed to help u
 
 ### Demo Video
 
-file:///home/johurul/Videos/todoDemo02.mp4
+https://github.com/johurul000/Basic-To-Do-App/assets/90057499/d3d56a9e-fdc2-449d-9e8c-9b62861bc283
 
 
 
